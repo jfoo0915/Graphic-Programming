@@ -1,0 +1,86 @@
+-----------------------Body-----------------------------------------
+Left Rotate Robot						U
+Right Rotate Robot					O
+
+-----------------------Head-----------------------------------------
+Move Head Up						W
+Move Head Down						S
+Move Head Left						A
+Move Head Right						D
+Horn Drilling						F6
+
+-----------------------Arm------------------------------------------
+========================Lower Arm===================================
+Move Forward and Backward				F1
+Move Forward						X
+Move Backward 						Z
+
+========================Wrist and palm==============================           
+Move Backward						C
+Move Forward						V
+
+========================Palm========================================
+Rotate Front						N
+Rotate Back							B
+
+========================Finger======================================
+All Finger Move						M
+
+-----------------------Leg-------------------------------
+====================Left Bottom Leg and Foot========================
+Move Up 							R
+Move Down							F
+
+===================Right bottom Leg and Foot========================
+Move Up							T
+Move Down							G
+
+========================Left Foot===================================
+Move Up							Y
+Move Down							H
+
+========================Right Foot==================================
+Move Up							Q
+Move Down							E
+
+-----------------------Camera---------------------------------------
+Move To Left						←
+Move To Right						→
+Move To Up							↑
+Move To Down						↓
+Rotate To Left (only for perspective) 		3
+Rotate To Right (only for perspective) 		4
+Zoom In (only for perspective) 			Caps lock
+Zoom Out (only for perspective) 			TAB key
+
+-----------------------Projection View------------------------------
+Ortho View							1
+Perspective View						2
+
+-----------------------Texture/Skybox-------------------------------
+On off texture/skybox					F4
+
+-----------------------Lighting-------------------------------------
+On Off Light						7
+Switch Light Type						DELETE
+Move The Light Up (need to light on)		I
+Move The Light Down (need to light on)		K
+Move The Light Left (need to light on)		J
+Move The Light Right (need to light on)		L
+Move The Light Position Near (need to light on)	8
+Move The Light Position Far (need to light on)	9
+
+-----------------------Weapon---------------------------------------
+Shield Defense (Press again to stop)		5
+Axe    Attack  (Press again to stop)		6
+
+-----------------------Laser----------------------------------------
+On Off Laser (need to rotate abit) 			F5
+Mave Laser Up and Down					F3
+
+-----------------------Animation------------------------------------
+Walking							0
+Attacking							6
+Defensing							5
+Reset 							SPACE
+
